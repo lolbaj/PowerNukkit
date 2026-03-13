@@ -78,4 +78,4 @@ bash run-server.sh
 
 ## 🌍 Letting Friends Join (Port Forwarding)
 To let friends join who are **NOT** on your Wi-Fi, your phone's port needs to be public. Since most mobile networks block this, we recommend using:
-*   **[Playit.gg](https://playit.gg/)**: A free tool that creates a public IP for your Termux server without complex router settings.
+*   **[Playit.gg](https://playit.gg/)**: A free tool that creates a public IP for your Termux server without complex router settings. Install it with `pkg install playit` and run it using the command **`playit-cli`**.
