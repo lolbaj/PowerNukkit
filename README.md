@@ -94,6 +94,8 @@ Termux / Android Quick Start (Optimized)
 -------------
 This fork is pre-optimized for hosting on Android devices via **Termux**, specifically tested on the **Helio P70** chipset with **6GB RAM**.
 
+> **Note:** For a full, beginner-friendly setup guide with battery optimization tips, see: **[TERMUX_GUIDE.md](./TERMUX_GUIDE.md)**
+
 ### 1. Install Requirements
 Open Termux and run:
 ```sh
