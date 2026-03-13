@@ -6,9 +6,9 @@ JAR_NAME="Nukkit-PM1E.jar"
 SOURCE_JAR="target/$JAR_NAME"
 JAVA_HOME_PATH="/data/data/com.termux/files/usr/lib/jvm/java-21-openjdk"
 
-# Memory settings (Adjusted for Helio P70 and 6GB RAM)
-MEM_MIN="1G"
-MEM_MAX="1536M"
+# Memory settings (Adjusted for 2GB usage on 6GB RAM device)
+MEM_MIN="1536M"
+MEM_MAX="2048M"
 
 # Java Module Access Flags (Required for Java 17+)
 JAVA_OPTS="--add-opens jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED \
